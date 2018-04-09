@@ -1,0 +1,5 @@
+hadoop,12
+spark,23
+flume,14
+sqoop,13
+kylin,19
