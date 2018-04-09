@@ -188,6 +188,6 @@ object DecodeWeiduanLog {
 
     formattedMap.toMap
   }
-}
+
 
 }

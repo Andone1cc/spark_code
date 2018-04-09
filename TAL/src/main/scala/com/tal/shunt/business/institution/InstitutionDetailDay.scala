@@ -73,5 +73,5 @@ class InstitutionDetailDay(sourcePath: String, currentDate: String, jdbcPool: JD
         confFile.close()
       }
     }
-
   }
+}
