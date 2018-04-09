@@ -162,7 +162,7 @@ object DecodeWeiduanLog {
             sid = pathList.last
           }
         }
-        //截取点后字符
+        //截取点后字符xx
         val postfixIndex = sid.indexOf(".")
         if (postfixIndex != -1) {
           sid = sid.substring(0, postfixIndex)
